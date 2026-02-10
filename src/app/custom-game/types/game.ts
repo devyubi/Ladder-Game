@@ -1,0 +1,1 @@
+export type WinningTeamKey = "team1" | "team2";
